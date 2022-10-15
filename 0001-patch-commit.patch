@@ -1,0 +1,24 @@
+From 40724ab41e7872c8c5ca88054addffcfc6b21baa Mon Sep 17 00:00:00 2001
+From: shashi kiran <shashikiran.talusani@gmail.com>
+Date: Sat, 15 Oct 2022 18:54:03 +0530
+Subject: [PATCH] patch commit
+
+---
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/index.html b/index.html
+index 5b272df..ede61f8 100644
+--- a/index.html
++++ b/index.html
+@@ -11,6 +11,7 @@
+ <p>This is the first file in my new Git Repo.</p>
+ <p>This line is here to show how merging works.</p>
+ <p>A new line in our file!</p>
++<p>A new line in our file!</p>
+ <div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
+ 
+ </body>
+-- 
+2.22.0.windows.1
+
